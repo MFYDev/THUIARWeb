@@ -11,7 +11,7 @@ This is the repo which contains all files that used to build the [THUIAR Offcici
 
 ## Prerequisites
 
-Before downloading your site, lets first install Hugo Extended and its prerequisites.
+Before downloading the site, lets first install Hugo Extended and its prerequisites.
 
 Choose your operating system below to get started.
 
