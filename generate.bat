@@ -1,0 +1,1 @@
+hugo --theme=academic --baseUrl="https://thuiar.mfy.world"

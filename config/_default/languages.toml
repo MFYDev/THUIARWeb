@@ -1,0 +1,59 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+# Configure the English version of the site.
+[en]
+  languageCode = "en-us"
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  [en.params]
+  # Address
+  # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+  address = {street = "Shuangqing Road 30", city = "Haidian District", region = "Beijing", postcode = "100084", country = "China", country_code = "CN"}
+  # Directions for visitors to locate you.
+  directions = "4-506, FIT Building, Tsinghua University"
+
+# Uncomment the lines below to configure your website in a second language.
+[zh]
+ languageCode = "zh-Hans"
+ contentDir = "content/zh"
+ title = "清华大学IAR研究组"
+ [zh.params]
+   description = "THU-IAR"
+ [[zh.menu.main]]
+   name = "主页"
+   url = "#hero"
+   weight = 10
+ [[zh.menu.main]]
+   name = "主研方向"
+   url = "#direction"
+   weight = 11
+ [[zh.menu.main]]
+   name = "成员"
+   url = "#people"
+   weight = 20
+ [[zh.menu.main]]
+   name = "论文"
+   url = "#papers"
+   weight = 30
+ [[zh.menu.main]]
+   name = "专利"
+   url = "#patents"
+   weight = 33
+ [[zh.menu.main]]
+   name = "教材"
+   url = "#textbooks"
+   weight = 34
+ [[zh.menu.main]]
+   name = "专著"
+   url = "#monographs"
+   weight = 35
+ [[zh.menu.main]]
+   name = "奖项"
+   url = "#accomplishments"
+   weight = 40
+ [[zh.menu.main]]
+   name = "联系"
+   url = "#contact"
+   weight = 50
+
