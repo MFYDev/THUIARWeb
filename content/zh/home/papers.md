@@ -13,7 +13,7 @@ subtitle = "[列出所有论文 →](/publication/) "
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "paper"
+  page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 10

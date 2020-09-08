@@ -5,6 +5,8 @@
 
 This is the repo which contains all files that used to build the [THUIAR Offcicial Website](https://thuiar.github.io), which mainly based on Hugo Framework and Academic Theme.
 
+**The website is made and maintained by [FanyangMengDev](https://github.com/FanyangMengDev).**
+
 # Get Started
 
 ## Prerequisites
@@ -14,7 +16,6 @@ Before downloading your site, lets first install Hugo Extended and its prerequis
 Choose your operating system below to get started.
 
 ### Windows
----
 
 Install and open the Windows Powershell 5 app.
 
@@ -35,7 +36,6 @@ setx PATH "%PATH%;%GOBIN%" /M
 ```
 
 ### Mac
----
 
 Open the Terminal app.
 
@@ -64,7 +64,6 @@ export PATH=$PATH:/usr/local/go/bin
 ```
 
 ### Linux
----
 
 Using Snap:
 
@@ -78,7 +77,6 @@ Brilliant! Now you have already finished installing the requirements that the we
 ## Customize the Website
 
 ### Config
----
 
 You can change the config of the website in the `./config/_default/` folder.
 
@@ -91,19 +89,16 @@ You can change the config of the website in the `./config/_default/` folder.
 **menus.toml** allows you to change the menu in the homapage.
 
 ### Content
----
 
 After you finish setting the config, all you need to do is customize the `content` folder. It contains all files that display on our website.
 
 Files within the `./content/zh/home/` are the main pages display on the homepage. You can choose whether to show them by changing the value `active` in every file.
 
 ### View it locally
----
 
 You can run `hugo server` directly in the root dictionary. Then open your browser and input http://localhost:1313, now you can view the whole website locally.
 
 ### Generate deployment files
----
 
 Just run `hugo --baseUrl="https://thuiar.github.io"`, then the `public` folder is the deployment folder that you need.
 
