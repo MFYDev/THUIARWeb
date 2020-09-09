@@ -92,7 +92,7 @@ You can change the config of the website in the `./config/_default/` folder.
 
 After you finish setting the config, all you need to do is customize the `content` folder. It contains all files that display on our website.
 
-Files within the `./content/zh/home/` are the main pages display on the homepage. You can choose whether to show them by changing the value `active` in every file.
+Files within the `./content/zh/home/` are the main pages display on the homepage. You can choose whether to show each widget by changing the value `active` in it.
 
 ### View it locally
 
