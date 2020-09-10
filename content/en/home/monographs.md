@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 47  # Order that this section will appear.
 
-title = "Monographs"
-subtitle = "Monographs that we published"
+title = "Monographs that We Participated In"
+subtitle = "Published monographs we participated in"
 
 [content]
   # Page type to display. E.g. project.

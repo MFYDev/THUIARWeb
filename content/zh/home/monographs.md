@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 47  # Order that this section will appear.
 
-title = "专著"
-subtitle = "我们所出版的专著"
+title = "参与出版的专著"
+subtitle = "我们参与出版的著作"
 
 [content]
   # Page type to display. E.g. project.
