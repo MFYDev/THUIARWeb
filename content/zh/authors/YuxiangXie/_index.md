@@ -11,12 +11,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士
+role: 访问研究生
 
 # Organizations/Affiliations
 organizations:
-- name: 清华大学
-  url: "https://www.tsinghua.edu.cn/"
+- name: 河北科技大学
+  url: "https://www.hebust.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 2016年进组，2019年获得硕士学位。

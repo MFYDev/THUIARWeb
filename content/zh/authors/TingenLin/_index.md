@@ -19,10 +19,10 @@ organizations:
   url: "https://www.tsinghua.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 2017年进组，2020年获得硕士学位，清华大学优秀硕士毕业生。
+bio: 2017年进组，2020年获得硕士学位，清华大学计算机系优秀硕士毕业生。
 
 user_groups:
 - 已毕业
 ---
 
-2017年进组，2020年获得硕士学位，清华大学优秀硕士毕业生。
+2017年进组，2020年获得硕士学位，清华大学计算机系优秀硕士毕业生。

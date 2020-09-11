@@ -19,10 +19,10 @@ organizations:
   url: "https://www.tsinghua.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Joined the team in 2017, obtained a master's degree in 2020, and an outstanding master's degree graduate of Tsinghua University.
+bio: Joined the team in 2017, obtained a master's degree in 2020, and an outstanding master's degree graduate of the Department of Computer Science,Tsinghua University.
 
 user_groups:
 - Graduated
 ---
 
-Joined the team in 2017, obtained a master's degree in 2020, and an outstanding master's degree graduate of Tsinghua University.
+Joined the team in 2017, obtained a master's degree in 2020, and an outstanding master's degree graduate of the Department of Computer Science,Tsinghua University.

@@ -11,12 +11,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's Degree
+role: Visiting Postgraduate Student
 
-# Organizations/Affiliations
 organizations:
-- name: Tsinghua University
-  url: "https://www.tsinghua.edu.cn/"
+- name: Hebei University of Science and Technology
+  url: "https://www.hebust.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Joined the team in 2016, obtained Master's Degree in 2019.
