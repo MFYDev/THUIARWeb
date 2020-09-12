@@ -17,23 +17,9 @@ Choose your operating system below to get started.
 
 ### Windows
 
-Install and open the Windows Powershell 5 app.
+Download the latest version of **hugo_extended** from https://github.com/gohugoio/hugo/releases
 
-Install Scope, the package manager for Windows, by pasting the following commands into Powershell and pressing the Enter ↵ key:
-
-```bash
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-iwr -useb get.scoop.sh | iex
-```
-
-Install Hugo and its dependencies:
-
-```bash
-scoop install git openssh go hugo-extended
-setx GOPATH "%scoopApps%/go" /M
-setx GOBIN "%GOPATH%/bin" /M
-setx PATH "%PATH%;%GOBIN%" /M
-```
+Unzip hugo.exe to the root dictionary of this repo.
 
 ### Mac
 
