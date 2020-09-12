@@ -1,1 +1,1 @@
-hugo --baseUrl="https://thuiar.github.io"
+hugo --theme=academic --baseUrl="https://thuiar.mfy.world"
