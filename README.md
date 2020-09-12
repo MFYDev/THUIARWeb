@@ -19,7 +19,7 @@ Choose your operating system below to get started.
 
 Download the latest version of **hugo_extended** from https://github.com/gohugoio/hugo/releases
 
-Unzip hugo.exe to the root dictionary of this repo.
+Unzip **hugo.exe** to the root dictionary of this repo.
 
 ### Mac
 
