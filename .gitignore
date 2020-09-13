@@ -2,6 +2,5 @@
 .idea/
 
 # Hugo
-resources/
+/resources/
 public/
-hugo.exe
