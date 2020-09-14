@@ -3,13 +3,11 @@
 ![](https://img.shields.io/badge/Framework-Hugo-green?style=for-the-badge&logo=hugo)
 ![](https://img.shields.io/badge/Theme-Academic-blue?style=for-the-badge&logo=hugo)
 
-This is the repo which contains all files that used to build the [THUIAR Offcicial Website](https://thuiar.github.io), which mainly based on Hugo Framework and Academic Theme.
+This is the repo which contains all files that used to build the [**THUIAR Offcicial Website**](https://thuiar.github.io), which mainly based on Hugo Framework and Academic Theme.
 
 **The website is made and maintained by [FanyangMengDev](https://github.com/FanyangMengDev).**
 
 # Get Started
-
-# Prerequisites
 
 Before downloading the site, lets first install Hugo Extended and its prerequisites.
 
