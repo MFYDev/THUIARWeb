@@ -1,1 +1,1 @@
-hugo server --cacheDir D:\GitHubRepo\THUIARWeb\cache
+hugo server --cacheDir=D:\GitHubRepo\THUIARWeb\cache

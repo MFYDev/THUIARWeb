@@ -155,11 +155,15 @@ To enable visitors to easily cite your work, export a BibTeX citation file named
 
 ## View it locally
 
-You can run `hugo server` directly in the root dictionary. Then open your browser and input http://localhost:1313, now you can view the whole website locally.
+You can run `hugo server --cacheDir=/path/to/cache` directly in the root dictionary. Then open your browser and input http://localhost:1313, now you can view the whole website locally.
+
+If you are a Windows user, you can also edit the value of `--cacheDir` to the cache path in [view.bat](/view.bat). Then double click on it and you can view it locally.
 
 ## Generate deployment files
 
-Just run `hugo --baseUrl="https://thuiar.github.io"`, then the `public` folder is the deployment folder that you need.
+Just run `hugo --baseUrl="https://thuiar.github.io --cacheDir=/path/to/cache"`, then the `public` folder is the deployment folder that you need.
+
+If you are a Windows user, you can also edit the value of `--cacheDir` to the cache path in [generate.bat](/generate.bat). Then double click on it and you can build it locally.
 
 
 

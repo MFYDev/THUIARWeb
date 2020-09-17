@@ -1,1 +1,1 @@
-hugo --baseUrl="https://thuiar.mfy.world" --cacheDir D:\GitHubRepo\THUIARWeb\cache
+hugo --baseUrl="https://thuiar.mfy.world" --cacheDir=D:\GitHubRepo\THUIARWeb\cache
