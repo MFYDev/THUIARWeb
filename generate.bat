@@ -1,1 +1,1 @@
-hugo --theme=academic --baseUrl="https://thuiar.mfy.world"
+hugo --baseUrl="https://thuiar.mfy.world" --cacheDir D:\GitHubRepo\THUIARWeb\cache

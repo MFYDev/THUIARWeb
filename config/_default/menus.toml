@@ -19,14 +19,19 @@
   weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Papers"
+  url = "#papers"
   weight = 30
 
 [[main]]
   name = "Patents"
   url = "#patents"
   weight = 33
+
+[[main]]
+  name = "Courses"
+  url = "#courses"
+  weight = 34
 
 [[main]]
   name = "Textbooks"

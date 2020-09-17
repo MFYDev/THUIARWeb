@@ -34,20 +34,24 @@
    weight = 20
  [[zh.menu.main]]
    name = "文章"
-   url = "#publications"
+   url = "#papers"
    weight = 30
  [[zh.menu.main]]
    name = "专利"
    url = "#patents"
    weight = 33
  [[zh.menu.main]]
+   name = "主讲课程"
+   url = "#courses"
+   weight = 34
+ [[zh.menu.main]]
    name = "教材"
    url = "#textbooks"
-   weight = 34
+   weight = 35
  [[zh.menu.main]]
    name = "专著"
    url = "#monographs"
-   weight = 35
+   weight = 36
  [[zh.menu.main]]
    name = "奖项"
    url = "#accomplishments"
