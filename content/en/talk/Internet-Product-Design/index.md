@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Internet product design"
+title: "Internet Product Design"
 event: 
 event_url: 
 location:
