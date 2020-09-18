@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "《数据挖局：方法与应用》"
+title: "《数据挖掘：方法与应用》"
 event: 
 event_url: 
 location:
