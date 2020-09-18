@@ -5,9 +5,9 @@
 
 This is the repo which contains all files that used to build the [**THUIAR Offcicial Website**](https://thuiar.github.io), which mainly based on Hugo Framework and Academic Theme.
 
-Refer to [Deployment files Repo](https://github.com/thuiar/thuiar.github.io) for more information.
+**Refer to [Deployment files Repo](https://github.com/thuiar/thuiar.github.io) for more information.**
 
-**The website is made and maintained by [MFYDev](https://github.com/MFYDev).**
+**The website is made and maintained by 💖[MFYDev](https://github.com/MFYDev).**
 
 # Get Started
 
