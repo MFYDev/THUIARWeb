@@ -3,7 +3,7 @@
 
 title: "CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality"
 authors: [WenmengYu, HuaXu, FanyangMeng]
-date: 2020-08-31T15:24:04+08:00
+date: 2020-07-12T15:24:04+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
