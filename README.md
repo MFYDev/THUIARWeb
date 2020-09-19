@@ -9,7 +9,7 @@ This is the repository which contains all files that used to build the [**THUIAR
 
 **The website is made and maintained mainly by 💖[MFYDev](https://github.com/MFYDev).**
 
-Special thanks to [@Xiaoteng Li](https://github.com/XTenLee).
+🤞 Special thanks to [@Xiaoteng Li](https://github.com/XTenLee) and [@Kang Zhao](https://github.com/QFXY).
 
 # Get Started
 
