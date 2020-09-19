@@ -7,7 +7,9 @@ This is the repo which contains all files that used to build the [**THUIAR Offci
 
 **Refer to [Deployment files Repo](https://github.com/thuiar/thuiar.github.io) for more information.**
 
-**The website is made and maintained by 💖[MFYDev](https://github.com/MFYDev).**
+**The website is made and maintained mainly by 💖[MFYDev](https://github.com/MFYDev).**
+
+Special thanks to [@Xiaoteng Li](https://github.com/XTenLee).
 
 # Get Started
 
