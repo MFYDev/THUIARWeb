@@ -22,7 +22,7 @@ This is the repository which contains all files that used to build the [**THUIAR
   - [Content](#content)
   - [Create a Publication](#create-a-publication)
     - [🦾 Automatically](#-automatically)
-    - [✍️ Manually](#-manually)
+    - [✍️ Manually](#%EF%B8%8F-manually)
 - [🍳 View It Locally](#-view-it-locally)
 - [🎉 Generate Deployment Files](#-generate-deployment-files)
 - [📢 **Note!!!!!!!!!**](#-note)
