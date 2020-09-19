@@ -1,17 +1,37 @@
-# THUIAR Official Website
+# 🌍 THUIAR Official Website
 
-![](https://img.shields.io/badge/Framework-Hugo-green?style=for-the-badge&logo=hugo)
-![](https://img.shields.io/badge/Theme-Academic-blue?style=for-the-badge&logo=hugo)
+![](https://img.shields.io/badge/Framework-Hugo-green?style=flat&logo=hugo)
+![](https://img.shields.io/badge/Theme-Academic-blue?style=flat&logo=hugo)
+![](https://img.shields.io/badge/License-Apache--2.0-blue)
 
-This is the repo which contains all files that used to build the [**THUIAR Offcicial Website**](https://thuiar.github.io), which mainly based on Hugo Framework and Academic Theme.
+📦 This is the repository which contains all files that used to build the [**THUIAR Offcicial Website**](https://thuiar.github.io), which mainly based on Hugo Framework.
 
-**Refer to [Deployment files Repo](https://github.com/thuiar/thuiar.github.io) for more information.**
+**📂 Refer to [Deployment files Repo](https://github.com/thuiar/thuiar.github.io) for more information.**
 
-**The website is made and maintained by 💖[MFYDev](https://github.com/MFYDev).**
+**💖 The website is made and maintained mainly by [@MFYDev](https://github.com/MFYDev).**
 
-# Get Started
+**🤞 Special thanks to [@Xiaoteng Li](https://github.com/XTenLee) and [@Kang Zhao](https://github.com/QFXY) for the contribution.**
 
-Before downloading the site, lets first install Hugo Extended and its prerequisites.
+# 📋 Table of Content
+
+- [💪 Get Started](#-get-started)
+  - [Windows](#windows)
+  - [Mac](b#mac)
+  - [Linux](#linux)
+- [🛠 Customize the Website](#-customize-the-website)
+  - [Config](#config)
+  - [Content](#content)
+  - [Create a Publication](#create-a-publication)
+    - [🦾 Automatically](#-automatically)
+    - [✍️ Manually](#%EF%B8%8F-manually)
+- [🍳 View It Locally](#-view-it-locally)
+- [🎉 Generate Deployment Files](#-generate-deployment-files)
+- [📢 **Note!!!!!!!!!**](#-note)
+- [📝 License](#-license)
+  
+# 💪 Get Started
+
+Before download the repository, lets first install Hugo Extended and its prerequisites.
 
 Choose your operating system below to get started.
 
@@ -71,7 +91,7 @@ snap install hugo --channel=extended
 
 Brilliant! Now you have already finished installing the requirements that the website need.
 
-# Customize the Website
+# 🛠 Customize the Website
 
 ## Config
 
@@ -89,11 +109,16 @@ You can change the config of the website in the `./config/_default/` folder.
 
 After you finish setting the config, all you need to do is customize the `content` folder. It contains all files that display on our website.
 
-Files within the `./content/zh/home/` are the main pages display on the homepage. You can choose whether to show each widget by changing the value `active` in it.
+You just need to customize files in `/content/[language]`. Here are the demonstration of each folder in this path.
 
-## Create a publication
+ - **authors**: Contains folks who are/were in THUIAR.
+ - **home**: Files within this folder are the main pages display on the homepage. You can choose whether to show each widget by changing the value `active` in it.
+ - **monograph** & **publication** & **talk** & **textbook**: Just like the folder name. The structure of files in these two folders are similar with each other. Open them and you will get it.
+ - **post**: There is no content in it currently. Just save this folder in case future need.
 
-### Automatically
+## Create a Publication
+
+### 🦾 Automatically
 
 The leading reference management tools enable you to export your publications to the open BibTeX format. If you are new to research we recommend managing references with **Zotero**, a popular open source tool.
 
@@ -117,7 +142,7 @@ academic import --bibtex <path_to_your/publications.bib>
 
 The tool is in beta status and intended purely to help assist you, so the generated output in the `publication` folder should be reviewed prior to publishing your site. You can also consider enhancing the output by taking a look at the front matter parameters in the files alongside the details in the *Manually* section below.
 
-### Manually
+### ✍️ Manually
 
 Alternatively, publications can be manually created using the command:
 
@@ -155,23 +180,24 @@ To enable visitors to read your work, either paste a link to your PDF in `url_pd
 
 To enable visitors to easily cite your work, export a BibTeX citation file named `cite.bib` from your reference management tool to your publication’s own folder and a citation link will be automatically generated.
 
-## View it locally
+# 🍳 View It Locally
 
 You can run `hugo server --cacheDir=/path/to/cache` directly in the root dictionary. Then open your browser and input http://localhost:1313, now you can view the whole website locally.
 
 If you are a Windows user, you can also edit the value of `--cacheDir` to the cache path in [view.bat](/view.bat). Then double click on it and you can view it locally.
 
-## Generate deployment files
+# 🎉 Generate Deployment Files
 
 Just run `hugo --baseUrl="https://thuiar.github.io --cacheDir=/path/to/cache"`, then the `public` folder is the deployment folder that you need.
 
 If you are a Windows user, you can also edit the value of `--cacheDir` to the cache path in [generate.bat](/generate.bat). Then double click on it and you can build it locally.
 
-## 📢 **Note！**
+# 📢 **Note!!!!!!!!!**
 
 **The value of `--cacheDir=/path/to/cache` must be set correctly for Windows user, or after you change some file names or folder names, Hugo might cannot build the site anymore!**
 
+# 📝 License
 
+Copyright © [MFYDev（孟繁阳）](https://github.com/MFYDev)
 
-
-
+This project is [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) licensed.
