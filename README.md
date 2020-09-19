@@ -1,7 +1,8 @@
 # THUIAR Official Website
 
-![](https://img.shields.io/badge/Framework-Hugo-green?style=for-the-badge&logo=hugo)
-![](https://img.shields.io/badge/Theme-Academic-blue?style=for-the-badge&logo=hugo)
+![](https://img.shields.io/badge/Framework-Hugo-green?style=flat&logo=hugo)
+![](https://img.shields.io/badge/Theme-Academic-blue?style=flat&logo=hugo)
+![](https://img.shields.io/badge/License-Apache--2.0-blue)
 
 This is the repository which contains all files that used to build the [**THUIAR Offcicial Website**](https://thuiar.github.io), which mainly based on Hugo Framework and Academic Theme.
 
