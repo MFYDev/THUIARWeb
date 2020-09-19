@@ -24,7 +24,7 @@
   - [Create a Publication](#create-a-publication)
     - [🦾 Automatically](#-automatically)
     - [✍️ Manually](#%EF%B8%8F-manually)
-- [🕵️‍♂️ View It Locally](#-view-it-locally)
+- [🕵️‍♂️ View It Locally](#%EF%B8%8F%EF%B8%8F-view-it-locally)
 - [🎉 Generate Deployment Files](#-generate-deployment-files)
 - [📢 **Note!!!!!!!!!**](#-note)
 - [📝 License](#-license)
