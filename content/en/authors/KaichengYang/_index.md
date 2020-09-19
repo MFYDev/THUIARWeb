@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 杨铠成
+title: Kaicheng Yang
 weight: 1
 
 # Username (this should match the folder name)
