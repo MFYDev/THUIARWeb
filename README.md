@@ -13,21 +13,21 @@ This is the repository which contains all files that used to build the [**THUIAR
 
 # Table of Content
 
-- [Get Started](#get-started)
+- [💪 Get Started](#-get-started)
   - [Windows](#windows)
   - [Mac](b#mac)
   - [Linux](#linux)
-- [Customize the Website](#customize-the-website)
+- [💅 Customize the Website](#-customize-the-website)
   - [Config](#config)
   - [Content](#content)
   - [Create a Publication](#create-a-publication)
-    - [Automatically](#automatically)
-    - [Manually](#manually)
-- [View It Locally](#view-it-locally)
-- [Generate Deployment Files](#generate-deployment-files)
+    - [🦾 Automatically](#-automatically)
+    - [✍️ Manually](#-manually)
+- [🍳 View It Locally](#-view-it-locally)
+- [👏 Generate Deployment Files](#-generate-deployment-files)
 - [📢 **Note！**](#-note)
   
-# Get Started
+# 💪 Get Started
 
 Before downloading the site, lets first install Hugo Extended and its prerequisites.
 
@@ -89,7 +89,7 @@ snap install hugo --channel=extended
 
 Brilliant! Now you have already finished installing the requirements that the website need.
 
-# Customize the Website
+# 💅 Customize the Website
 
 ## Config
 
@@ -178,13 +178,13 @@ To enable visitors to read your work, either paste a link to your PDF in `url_pd
 
 To enable visitors to easily cite your work, export a BibTeX citation file named `cite.bib` from your reference management tool to your publication’s own folder and a citation link will be automatically generated.
 
-## View It Locally
+## 🍳 View It Locally
 
 You can run `hugo server --cacheDir=/path/to/cache` directly in the root dictionary. Then open your browser and input http://localhost:1313, now you can view the whole website locally.
 
 If you are a Windows user, you can also edit the value of `--cacheDir` to the cache path in [view.bat](/view.bat). Then double click on it and you can view it locally.
 
-## Generate Deployment Files
+## 👏 Generate Deployment Files
 
 Just run `hugo --baseUrl="https://thuiar.github.io --cacheDir=/path/to/cache"`, then the `public` folder is the deployment folder that you need.
 
