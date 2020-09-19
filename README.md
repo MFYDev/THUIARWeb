@@ -25,7 +25,7 @@ This is the repository which contains all files that used to build the [**THUIAR
     - [✍️ Manually](#-manually)
 - [🍳 View It Locally](#-view-it-locally)
 - [👏 Generate Deployment Files](#-generate-deployment-files)
-- [📢 **Note！**](#-note)
+- [📢 **Note!!!!!!!!!**](#-note)
   
 # 💪 Get Started
 
@@ -190,7 +190,7 @@ Just run `hugo --baseUrl="https://thuiar.github.io --cacheDir=/path/to/cache"`, 
 
 If you are a Windows user, you can also edit the value of `--cacheDir` to the cache path in [generate.bat](/generate.bat). Then double click on it and you can build it locally.
 
-## 📢 **Note！**
+## 📢 **Note!!!!!!!!!**
 
 **The value of `--cacheDir=/path/to/cache` must be set correctly for Windows user, or after you change some file names or folder names, Hugo might cannot build the site anymore!**
 
