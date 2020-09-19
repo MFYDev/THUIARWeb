@@ -17,7 +17,7 @@ This is the repository which contains all files that used to build the [**THUIAR
   - [Windows](#windows)
   - [Mac](b#mac)
   - [Linux](#linux)
-- [💅 Customize the Website](#-customize-the-website)
+- [🛠 Customize the Website](#-customize-the-website)
   - [Config](#config)
   - [Content](#content)
   - [Create a Publication](#create-a-publication)
@@ -89,7 +89,7 @@ snap install hugo --channel=extended
 
 Brilliant! Now you have already finished installing the requirements that the website need.
 
-# 💅 Customize the Website
+# 🛠 Customize the Website
 
 ## Config
 
@@ -116,7 +116,7 @@ You just need to customize files in `/content/[language]`. Here are the demonstr
 
 ## Create a Publication
 
-### Automatically
+### 🦾 Automatically
 
 The leading reference management tools enable you to export your publications to the open BibTeX format. If you are new to research we recommend managing references with **Zotero**, a popular open source tool.
 
@@ -140,7 +140,7 @@ academic import --bibtex <path_to_your/publications.bib>
 
 The tool is in beta status and intended purely to help assist you, so the generated output in the `publication` folder should be reviewed prior to publishing your site. You can also consider enhancing the output by taking a look at the front matter parameters in the files alongside the details in the *Manually* section below.
 
-### Manually
+### ✍️ Manually
 
 Alternatively, publications can be manually created using the command:
 
