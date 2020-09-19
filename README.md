@@ -11,7 +11,7 @@ This is the repository which contains all files that used to build the [**THUIAR
 
 🤞 Special thanks to [@Xiaoteng Li](https://github.com/XTenLee) and [@Kang Zhao](https://github.com/QFXY) for the contribution.
 
-# Table of Content
+# 📋 Table of Content
 
 - [💪 Get Started](#-get-started)
   - [Windows](#windows)
