@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Framework-Hugo-green?style=for-the-badge&logo=hugo)
 ![](https://img.shields.io/badge/Theme-Academic-blue?style=for-the-badge&logo=hugo)
 
-This is the repo which contains all files that used to build the [**THUIAR Offcicial Website**](https://thuiar.github.io), which mainly based on Hugo Framework and Academic Theme.
+This is the repository which contains all files that used to build the [**THUIAR Offcicial Website**](https://thuiar.github.io), which mainly based on Hugo Framework and Academic Theme.
 
 **Refer to [Deployment files Repo](https://github.com/thuiar/thuiar.github.io) for more information.**
 
