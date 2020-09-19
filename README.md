@@ -26,6 +26,7 @@ This is the repository which contains all files that used to build the [**THUIAR
 - [🍳 View It Locally](#-view-it-locally)
 - [🎉 Generate Deployment Files](#-generate-deployment-files)
 - [📢 **Note!!!!!!!!!**](#-note)
+- [📝 License](#-license)
   
 # 💪 Get Started
 
@@ -194,7 +195,8 @@ If you are a Windows user, you can also edit the value of `--cacheDir` to the ca
 
 **The value of `--cacheDir=/path/to/cache` must be set correctly for Windows user, or after you change some file names or folder names, Hugo might cannot build the site anymore!**
 
+# 📝 License
 
+Copyright © [MFYDev（孟繁阳）](https://github.com/MFYDev)
 
-
-
+This project is [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) licensed.
