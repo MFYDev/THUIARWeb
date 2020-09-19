@@ -33,7 +33,7 @@
    url = "#people"
    weight = 20
  [[zh.menu.main]]
-   name = "文章"
+   name = "论文"
    url = "#papers"
    weight = 30
  [[zh.menu.main]]
