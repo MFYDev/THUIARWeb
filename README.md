@@ -1,16 +1,16 @@
-# THUIAR Official Website
+# 🌍 THUIAR Official Website
 
 ![](https://img.shields.io/badge/Framework-Hugo-green?style=flat&logo=hugo)
 ![](https://img.shields.io/badge/Theme-Academic-blue?style=flat&logo=hugo)
 ![](https://img.shields.io/badge/License-Apache--2.0-blue)
 
-This is the repository which contains all files that used to build the [**THUIAR Offcicial Website**](https://thuiar.github.io), which mainly based on Hugo Framework and Academic Theme.
+📦 This is the repository which contains all files that used to build the [**THUIAR Offcicial Website**](https://thuiar.github.io), which mainly based on Hugo Framework and Academic Theme.
 
-**Refer to [Deployment files Repo](https://github.com/thuiar/thuiar.github.io) for more information.**
+**📂 Refer to [Deployment files Repo](https://github.com/thuiar/thuiar.github.io) for more information.**
 
 **💖 The website is made and maintained mainly by [@MFYDev](https://github.com/MFYDev).**
 
-🤞 Special thanks to [@Xiaoteng Li](https://github.com/XTenLee) and [@Kang Zhao](https://github.com/QFXY) for the contribution.
+**🤞 Special thanks to [@Xiaoteng Li](https://github.com/XTenLee) and [@Kang Zhao](https://github.com/QFXY) for the contribution.&&
 
 # 📋 Table of Content
 
