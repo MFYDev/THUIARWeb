@@ -24,7 +24,7 @@ This is the repository which contains all files that used to build the [**THUIAR
     - [🦾 Automatically](#-automatically)
     - [✍️ Manually](#-manually)
 - [🍳 View It Locally](#-view-it-locally)
-- [👏 Generate Deployment Files](#-generate-deployment-files)
+- [🎉 Generate Deployment Files](#-generate-deployment-files)
 - [📢 **Note!!!!!!!!!**](#-note)
   
 # 💪 Get Started
@@ -184,7 +184,7 @@ You can run `hugo server --cacheDir=/path/to/cache` directly in the root diction
 
 If you are a Windows user, you can also edit the value of `--cacheDir` to the cache path in [view.bat](/view.bat). Then double click on it and you can view it locally.
 
-## 👏 Generate Deployment Files
+## 🎉 Generate Deployment Files
 
 Just run `hugo --baseUrl="https://thuiar.github.io --cacheDir=/path/to/cache"`, then the `public` folder is the deployment folder that you need.
 
