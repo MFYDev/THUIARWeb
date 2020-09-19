@@ -180,19 +180,19 @@ To enable visitors to read your work, either paste a link to your PDF in `url_pd
 
 To enable visitors to easily cite your work, export a BibTeX citation file named `cite.bib` from your reference management tool to your publication’s own folder and a citation link will be automatically generated.
 
-## 🍳 View It Locally
+# 🍳 View It Locally
 
 You can run `hugo server --cacheDir=/path/to/cache` directly in the root dictionary. Then open your browser and input http://localhost:1313, now you can view the whole website locally.
 
 If you are a Windows user, you can also edit the value of `--cacheDir` to the cache path in [view.bat](/view.bat). Then double click on it and you can view it locally.
 
-## 🎉 Generate Deployment Files
+# 🎉 Generate Deployment Files
 
 Just run `hugo --baseUrl="https://thuiar.github.io --cacheDir=/path/to/cache"`, then the `public` folder is the deployment folder that you need.
 
 If you are a Windows user, you can also edit the value of `--cacheDir` to the cache path in [generate.bat](/generate.bat). Then double click on it and you can build it locally.
 
-## 📢 **Note!!!!!!!!!**
+# 📢 **Note!!!!!!!!!**
 
 **The value of `--cacheDir=/path/to/cache` must be set correctly for Windows user, or after you change some file names or folder names, Hugo might cannot build the site anymore!**
 
