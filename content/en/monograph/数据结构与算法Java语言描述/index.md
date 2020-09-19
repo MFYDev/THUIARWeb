@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "数据结构与算法（Java描述）"
+title: "Data Structures and Algorithms (Java Description)"
 weight: 6
-summary: "机械工业出版社（2006年 2月）ISBN: 7-111-18204-9"
+summary: "China Machine Press (Feb. 2006) ISBN: 7-111-18204-9"
 authors: [JunhuiDeng]
 tags: []
 categories: []

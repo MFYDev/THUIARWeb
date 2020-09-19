@@ -3,7 +3,7 @@
 
 title: "Recent Advances in Multi-robot Systems"
 weight: 4
-summary: "清华大学出版社（2005年9月） ISBN: 7-302-11622-9 （原著： Mark de Berg, Marc van Kreveld, Mark Overmars, Otfried Schwarzkopf,Computational Geometry:Algorithms and Applications, Springer Springer; 2nd edition (Feb 18, 2000), ISBN: 3-540-65620-0.）"
+summary: "Tsinghua University Press (Sep. 2005) ISBN: 7-302-11622-9 （原著： Mark de Berg, Marc van Kreveld, Mark Overmars, Otfried Schwarzkopf,Computational Geometry:Algorithms and Applications, Springer Springer; 2nd edition (Feb 18, 2000), ISBN: 3-540-65620-0.）"
 authors: [JunhuiDeng]
 tags: []
 categories: []

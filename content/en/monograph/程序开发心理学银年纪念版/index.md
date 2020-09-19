@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "程序开发心理学（银年纪念版）"
+title: "The Psychology of Computer Programming"
 weight: 5
-summary: "清华大学出版社（2003年 9月）ISBN: 7-302-07026-1 （原著：Gerald M. Weinberg, The Psychology of Computer Programming: Silver Anniversary Edition, Dorset House (Sep. 1998), ISBN: 0-932-63342-0.）"
+summary: "Tsinghua University Press (Sep. 2003) ISBN: 7-302-07026-1 （Original Work：Gerald M. Weinberg, The Psychology of Computer Programming: Silver Anniversary Edition, Dorset House (Sep. 1998), ISBN: 0-932-63342-0.）"
 authors: [JunhuiDeng]
 tags: []
 categories: []

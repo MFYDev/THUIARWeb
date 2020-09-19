@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "质量软件管理（第1卷）--系统思维"
+title: "Quality Software Management (Volume 1)-System Thinking"
 weight: 5
-summary: "清华大学出版社（2004年6月）ISBN: 7-302-08298-7 （原著：Gerald M. Weinberg, Quality Software Management:Systems Thinking ,Dorset House (Sep. 1991), ISBN: 0-932-63322-6.）"
+summary: "Tsinghua University Press (Jun. 2004) ISBN: 7-302-08298-7 （Original Work：Gerald M. Weinberg, Quality Software Management:Systems Thinking ,Dorset House (Sep. 1991), ISBN: 0-932-63322-6.）"
 authors: [JunhuiDeng]
 tags: []
 categories: []
