@@ -10,7 +10,7 @@
 
 **💖 The website is made and maintained mainly by [@MFYDev](https://github.com/MFYDev).**
 
-**🤞 Special thanks to [@Xiaoteng Li](https://github.com/XTenLee) and [@Kang Zhao](https://github.com/QFXY) for the contribution.&&
+**🤞 Special thanks to [@Xiaoteng Li](https://github.com/XTenLee) and [@Kang Zhao](https://github.com/QFXY) for the contribution.**
 
 # 📋 Table of Content
 
