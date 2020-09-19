@@ -1,5 +1,5 @@
 ---
-title: 发表论文
+title: Publications
 
 # View.
 #   1 = List
