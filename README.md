@@ -91,7 +91,12 @@ You can change the config of the website in the `./config/_default/` folder.
 
 After you finish setting the config, all you need to do is customize the `content` folder. It contains all files that display on our website.
 
-Files within the `./content/zh/home/` are the main pages display on the homepage. You can choose whether to show each widget by changing the value `active` in it.
+You just need to customize files in `/content/[language]`. Here are the demonstration of each folder in this path.
+
+ - **authors**: Contains folks who are/were in THUIAR.
+ - **home**: Files within this folder are the main pages display on the homepage. You can choose whether to show each widget by changing the value `active` in it.
+ - **monograph** & **publication** & **talk** & **textbook**: Just like the folder name. The structure of files in these two folders are similar with each other. Open them and you will get it.
+ - **post**: There is no content in it currently. Just save this folder in case future need.
 
 ## Create a publication
 
