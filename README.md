@@ -29,7 +29,7 @@ This is the repository which contains all files that used to build the [**THUIAR
   
 # 💪 Get Started
 
-Before downloading the site, lets first install Hugo Extended and its prerequisites.
+Before download the repository, lets first install Hugo Extended and its prerequisites.
 
 Choose your operating system below to get started.
 
