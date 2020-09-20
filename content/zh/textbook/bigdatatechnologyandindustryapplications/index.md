@@ -6,7 +6,7 @@ weight: 3
 summary: "如何定义大数据？如何应用大数据？什么是大数据思维？如何学习大数据？如何构建大数据平台？如何在行业中应用大数据？这一系列的问题，是当前在大数据热的时代背景里，让人感到非常迷茫的问题。《大数据技术及行业应用》直面这些问题，在从业者角度解答以上问题，希望能给大数据行业的初学者提供一些帮助。"
 authors: [HuaXu]
 tags: [大数据]
-categories: [数据科学]
+categories: []
 date: 2016-08-01T15:43:29+08:00
 
 # Optional external URL for project (replaces project detail page).

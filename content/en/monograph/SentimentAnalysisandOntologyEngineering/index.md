@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Sentiment Analysis and Ontology Engineering"
 weight: 3
-summary: "Chapter 10: Chinese Micro-Blog Emotion Classification by Exploiting Linguistic Features and SVMperf ), Springer International Publishing, 2016, pp. 221-236, ISNN:978-3-319-30317-8 (徐华 参与编写，2016年出版)"
+summary: "Chapter 10: Chinese Micro-Blog Emotion Classification by Exploiting Linguistic Features and SVMperf ), Springer International Publishing, 2016, pp. 221-236, ISNN:978-3-319-30317-8 (Hua Hu participated in the writing, published in February 2016)"
 authors: [HuaXu]
 tags: []
 categories: []

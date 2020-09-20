@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "数据结构与算法（Java描述）"
-weight: 6
-summary: "机械工业出版社（2006年 2月）ISBN: 7-111-18204-9"
+title: "Data Structures and Algorithms (Java Description)"
+weight: 5
+summary: "This book fully demonstrates the application of object-oriented technology in modern data structure theory, generally using abstraction, encapsulation, and inheritance technologies. This book not only introduces the basic data structure, but also introduces the application, implementation and analysis methods of the algorithm in combination with specific problems. The book also unifies various graph algorithms through the traversal algorithm framework and implements it based on the traversal algorithm template. Unique among similar textbooks."
 authors: [JunhuiDeng]
 tags: []
 categories: []

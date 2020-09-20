@@ -6,7 +6,7 @@ weight: 3
 summary: "How to define big data? How to apply big data? What is big data thinking? How to learn big data? How to build a big data platform? How to apply big data in the industry? This series of problems are very confusing problems in the current era of big data boom. Big Data Technology and Industry Application faces these questions directly, answers the above questions from the perspective of practitioners, and hopes to provide some help to beginners in the big data industry."
 authors: [HuaXu]
 tags: [Big Data]
-categories: [Data Science]
+categories: []
 date: 2016-08-01T15:43:29+08:00
 
 # Optional external URL for project (replaces project detail page).

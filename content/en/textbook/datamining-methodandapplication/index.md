@@ -6,7 +6,7 @@ weight: 1
 summary: "Mainly based on the teaching practice and accumulation of the Data Mining Methods and Applications course set up by Tsinghua University, referring to the teaching system of relevant courses of famous foreign universities in recent years, systematically introducing the basic concepts and basic principles of data mining; combining some typical applications Examples show general patterns and ideas for solving problems with data mining thinking methods."
 authors: [HuaXu]
 tags: [Data Mining]
-categories: [Data Science]
+categories: []
 date: 2014-09-01T15:43:29+08:00
 
 # Optional external URL for project (replaces project detail page).

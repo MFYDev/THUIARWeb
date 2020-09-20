@@ -6,7 +6,7 @@ weight: 2
 summary: "主要根据清华大学开设的“数据挖掘：方法与应用”课程的教学实践与积累，参考近年国外著名大学相关课程的教学体系，系统的介绍数据挖掘的基本概念和基本原理方法；结合一些典型的应用实例展示用数据挖掘的思维方法求解问题的一般性模式与思路。"
 authors: [HuaXu]
 tags: [数据挖掘]
-categories: [数据科学]
+categories: []
 date: 2017-09-01T15:43:29+08:00
 
 # Optional external URL for project (replaces project detail page).

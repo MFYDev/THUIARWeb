@@ -3,7 +3,7 @@
 
 title: "Petri Net: Theory and Applications"
 weight: 1
-summary: "Chapter 12: Timed Hierarchical Object-oriented Petri Net, I-Tech Education and Publishing, Vienna, Austria, 2008, pp.253-280, ISNN:978-3-902613-12-7 (徐华 参与编写，2008年2月出版)"
+summary: "Chapter 12: Timed Hierarchical Object-oriented Petri Net, I-Tech Education and Publishing, Vienna, Austria, 2008, pp.253-280, ISNN:978-3-902613-12-7 (Hua Hu participated in the writing, published in February 2008)"
 authors: [HuaXu]
 tags: []
 categories: []

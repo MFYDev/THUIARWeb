@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 title: "Recent Advances in Multi-robot Systems"
 weight: 3
-summary: "Chapter 13: A Novel Modeling Method for Cooperative Multi-robot Systems Using Fuzzy Timed Agent Based Petri Nets ), I-Tech Education and Publishing, Vienna, Austria, 2008, pp.249-262, ISNN:978-3-902613-24-0 (徐华 参与编写，2008年出版)"
+summary: "Chapter 13: A Novel Modeling Method for Cooperative Multi-robot Systems Using Fuzzy Timed Agent Based Petri Nets ), I-Tech Education and Publishing, Vienna, Austria, 2008, pp.249-262, ISNN:978-3-902613-24-0 (Hua Hu participated in the writing, published in February 2008)"
 authors: [HuaXu]
 tags: []
 categories: []
