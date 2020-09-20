@@ -52,7 +52,7 @@ social:
 #  link: https://scholar.google.com/citations?user=AE5tvE4AAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/FanyangMengDev
+  link: https://github.com/MFYDev
 - icon: blog
   icon_pack: fas
   link: https://mfy.world
