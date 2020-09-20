@@ -71,3 +71,20 @@ user_groups:
 - Research Intern
 ---
 
+**2020** 
+
+Outstanding Graduates of Beijing
+
+Excellent Graduation Design Thesis of Beijing University of Chemical Technology
+
+**2019**
+
+Meritorious Winner of American College Students Mathematical Contest in Modeling (Top 7% in the world)
+
+Beijing University of Chemical Technology Innovation and Entrepreneurship Training Program Project "Robust Semantic Segmentation of Remote Sensing Noise Images Based on Dense Fusion Networks" National Good Prize
+
+Third Prize of the Fifth China "Internet +" University Student Innovation and Entrepreneurship Competition (Beijing Division)
+
+**2017-2020** Meritorious Student of Beijing University of Chemical Technology
+
+**Github Page：**[https://github.com/MFYDev](https://github.com/MFYDev)
