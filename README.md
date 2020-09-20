@@ -8,7 +8,7 @@
 
 **📂 Refer to [Deployment files Repo](https://github.com/thuiar/thuiar.github.io) for more information.**
 
-**💖 The website is made and maintained mainly by [@MFYDev](https://github.com/MFYDev).**
+**👨‍💻 The website is made and maintained mainly by [@MFYDev](https://github.com/MFYDev).**
 
 **🤞 Special thanks to [@Xiaoteng Li](https://github.com/XTenLee) and [@Kang Zhao](https://github.com/QFXY) for the contribution.**
 
@@ -24,7 +24,7 @@
   - [Create a Publication](#create-a-publication)
     - [🦾 Automatically](#-automatically)
     - [✍️ Manually](#%EF%B8%8F-manually)
-- [🍳 View It Locally](#-view-it-locally)
+- [🕵️‍♂️ View It Locally](#%EF%B8%8F%EF%B8%8F-view-it-locally)
 - [🎉 Generate Deployment Files](#-generate-deployment-files)
 - [📢 **Note!!!!!!!!!**](#-note)
 - [📝 License](#-license)
@@ -113,7 +113,7 @@ You just need to customize files in `/content/[language]`. Here are the demonstr
 
  - **authors**: Contains folks who are/were in THUIAR.
  - **home**: Files within this folder are the main pages display on the homepage. You can choose whether to show each widget by changing the value `active` in it.
- - **monograph** & **publication** & **talk** & **textbook**: Just like the folder name. The structure of files in these two folders are similar with each other. Open them and you will get it.
+ - **monograph** & **publication** & **talk** & **textbook**: Just like the folder name. The structure of files in these folders are similar with each other. Open them and you will get it.
  - **post**: There is no content in it currently. Just save this folder in case future need.
 
 ## Create a Publication
@@ -180,7 +180,7 @@ To enable visitors to read your work, either paste a link to your PDF in `url_pd
 
 To enable visitors to easily cite your work, export a BibTeX citation file named `cite.bib` from your reference management tool to your publication’s own folder and a citation link will be automatically generated.
 
-# 🍳 View It Locally
+# 🕵️‍♂️ View It Locally
 
 You can run `hugo server --cacheDir=/path/to/cache` directly in the root dictionary. Then open your browser and input http://localhost:1313, now you can view the whole website locally.
 
