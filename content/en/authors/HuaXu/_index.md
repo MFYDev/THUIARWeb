@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Tenured Associate Professor, Ph.D Supervisor
+role: Tenured Associate Professor, Associate Editor of Expert Systems with Application, Ph.D Supervisor
 
 # Organizations/Affiliations
 organizations:

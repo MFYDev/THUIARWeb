@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 长聘副教授, 博士生导师
+role: 长聘副教授, Expert Systems with Application 副主编，博士生导师
 
 # Organizations/Affiliations
 organizations:
