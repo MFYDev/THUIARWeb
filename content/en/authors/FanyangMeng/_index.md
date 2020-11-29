@@ -88,3 +88,7 @@ Third Prize of the Fifth China "Internet +" University Student Innovation and En
 **2017-2020** Meritorious Student of Beijing University of Chemical Technology
 
 **Github Page：**[https://github.com/MFYDev](https://github.com/MFYDev)
+
+**Personal Blog:** [https://mfy.world](https://mfy.world)
+
+IELTS Band: 7.5

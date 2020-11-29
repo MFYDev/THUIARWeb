@@ -88,3 +88,7 @@ user_groups:
 **2017-2020年** 北京化工大学校级三好学生
 
 **Github主页：**[https://github.com/MFYDev](https://github.com/MFYDev)
+
+**个人博客:** [https://mfy.world](https://mfy.world)
+
+雅思成绩: 7.5
