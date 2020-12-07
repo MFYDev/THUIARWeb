@@ -34,7 +34,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.aclweb.org/anthology/2020.acl-main.343.pdf
+url_pdf: https://doi.org/10.1145/3394171.3413690
 url_code: https://github.com/thuiar/Cross-Modal-BERT
 url_dataset:
 url_poster:
