@@ -22,8 +22,8 @@ organizations:
 bio: My research direction is evolutionary computing, multi-objective optimization.
 
 interests:
-- Artificial Intelligence
-- Evolutionary Computing
+- Neural Architecture Search
+- Evolutionary Algorithm
 - Multi-objective Optimization
 
 education:

@@ -22,8 +22,8 @@ organizations:
 bio: 我的研究方向为进化计算和多目标优化。
 
 interests:
-- 人工智能
-- 进化计算
+- 神经网络架构搜索
+- 进化算法
 - 多目标优化
 
 education:
